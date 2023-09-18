@@ -1,0 +1,15 @@
+.loginPage-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loginPage-form-container {
+  min-width: 350px;
+}
+
+.loginPage-form {
+  display: grid;
+  gap: 20px;
+}
