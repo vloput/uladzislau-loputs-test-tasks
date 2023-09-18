@@ -1,0 +1,19 @@
+.issueDetails-info {
+  display: grid;
+  row-gap: 15px;
+}
+
+.issueDetails-controls {
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.issueDetails-fieldName {
+  font-weight: 600;
+}
+
+.issueDetails-noChoice {
+  font-style: italic;
+  color: gray;
+}
